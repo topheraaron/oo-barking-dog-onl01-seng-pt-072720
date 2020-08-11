@@ -9,7 +9,7 @@ class Dog
   end
 
   def bark
-    @my_dogs_name
+    puts "woof!"
   end
 end
 
