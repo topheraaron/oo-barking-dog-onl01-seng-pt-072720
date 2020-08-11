@@ -9,7 +9,7 @@ class Dog
   end
 end
 
-fido = Dpg.new
+fido = Dog.new
 fido.name = "Fido"
 
 fido.bark
